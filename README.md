@@ -61,7 +61,9 @@ Please open one by one from number one to end. Thank you so much!
 
 23- https://lucid.app/lucidchart/f1e44735-34d0-47b9-8f8b-16ad9a1af8de/edit?viewport_loc=25%2C-578%2C1579%2C1096%2C0_0&invitationId=inv_352704a8-2d6b-459c-b033-1a57568ccd5a
 
-24- 
+24- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Collaborations.md
+
+25- 
 
 ---
 
