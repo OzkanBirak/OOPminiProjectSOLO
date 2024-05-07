@@ -8,6 +8,7 @@
 - Allow multiple user roles (e.g., student, administrative staff, faculty advisor) to interact with the system, each possibly needing to perform distinct actions or having different access levels.
 
 ---
+
 Index:
 1- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/usecase.md
 
@@ -19,7 +20,12 @@ Index:
 
 5- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Identifying%20Classes.md
 
-6- 
+6- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-07%20184441.png
+
+7- https://lucid.app/lucidchart/d70c557f-a2dd-432e-adfa-cb82d8b56204/edit?viewport_loc=-910%2C-621%2C3437%2C2019%2C0_0&invitationId=inv_5ad3c786-c8e2-4b47-b77f-58a0913ad345
+
+8- 
+
 ---
 
 A course registration system should fulfill several key requirements to effectively manage the process of students enrolling in courses. Here's a comprehensive list of functionalities such a system should ideally include:
