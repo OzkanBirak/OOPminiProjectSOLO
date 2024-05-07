@@ -67,7 +67,9 @@ Please open one by one from number one to end. Thank you so much!
 
 26- https://lucid.app/lucidchart/ce5a2054-8b7b-4a83-b6e0-4cf92613f70b/edit?viewport_loc=-1217%2C-1846%2C4197%2C2466%2C0_0&invitationId=inv_0c98a22b-f3db-40a4-9179-7e0dcd6fb09a
 
-27- 
+27- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Sequence%20Diagram.jpeg
+
+28- https://lucid.app/lucidchart/07cd672f-3201-4346-a3d7-e4da9f1ddaa4/edit?viewport_loc=640%2C9%2C1579%2C1096%2C0_0&invitationId=inv_d0ea5a12-0fb2-4fde-9c93-a494ead752c7
 
 ---
 
