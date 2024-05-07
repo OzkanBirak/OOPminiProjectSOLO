@@ -10,10 +10,15 @@
 ---
 Index:
 1- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/usecase.md
+
 2- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-07%20183149.png
+
 3- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Use%20Case%20Diagram%20via%20Lucidcharts%20(link).md
+
 4- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Use%20Case%20Diagram%20via%20Lucidcharts%20(link).md
+
 5- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Identifying%20Classes.md
+
 6- 
 ---
 
