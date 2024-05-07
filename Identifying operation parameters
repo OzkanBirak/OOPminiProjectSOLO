@@ -1,0 +1,94 @@
+For each operation in the Course Registration System, there are specific parameters that are passed to or returned from the operation. Here are the operation parameters for some of the operations identified earlier:
+
+1. **AddCourse()**:
+   - Parameters:
+     - Course information (Course Code, Title, Description, Credits, Instructor, Schedule, Location, Prerequisites, Enrollment Limit)
+
+2. **UpdateCourse()**:
+   - Parameters:
+     - Course Code (to identify the course being updated)
+     - Updated course information
+
+3. **DeleteCourse()**:
+   - Parameters:
+     - Course Code (to identify the course to be deleted)
+
+4. **GetCourseDetails()**:
+   - Parameters:
+     - Course Code (to identify the course whose details are to be retrieved)
+   - Return:
+     - Course details (Course Code, Title, Description, Credits, Instructor, Schedule, Location, Prerequisites, Enrollment Limit)
+
+5. **RegisterForCourse()**:
+   - Parameters:
+     - Student ID
+     - Course Code
+
+6. **DropCourse()**:
+   - Parameters:
+     - Student ID
+     - Course Code
+
+7. **JoinWaitlist()**:
+   - Parameters:
+     - Student ID
+     - Course Code
+
+8. **ViewEnrolledCourses()**:
+   - Parameters:
+     - Student ID
+   - Return:
+     - List of enrolled courses (Course Code, Title, Instructor, Schedule, Location)
+
+9. **ViewWaitlistedCourses()**:
+   - Parameters:
+     - Student ID
+   - Return:
+     - List of waitlisted courses (Course Code, Title, Instructor, Schedule, Location, Position)
+
+10. **UpdateProfile()**:
+    - Parameters:
+      - Student ID
+      - Updated student information
+
+11. **PayFees()**:
+    - Parameters:
+      - Student ID
+      - Course fees
+
+12. **ConfirmEnrollment()**:
+    - Parameters:
+      - Student ID
+      - Course Code
+
+13. **WithdrawFromCourse()**:
+    - Parameters:
+      - Student ID
+      - Course Code
+
+14. **ManageCourses()**:
+    - Parameters:
+      - Faculty ID
+      - Action (Add, Update, Delete)
+      - Course information (if applicable)
+
+15. **ManageUsers()**:
+    - Parameters:
+      - Admin ID
+      - Action (Add, Update, Delete)
+      - User information (if applicable)
+
+16. **ConfigureSystem()**:
+    - Parameters:
+      - Admin ID
+      - System configuration settings
+
+17. **AuthenticateUser()**:
+    - Parameters:
+      - Username
+      - Password
+
+18. **ApproveRegistration()**:
+    - Parameters:
+      - Admin ID
+      - Registration ID
