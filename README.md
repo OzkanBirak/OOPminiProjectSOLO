@@ -63,7 +63,11 @@ Please open one by one from number one to end. Thank you so much!
 
 24- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Collaborations.md
 
-25- 
+25- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Communication%20diagram%20for%20all%20executings.jpeg
+
+26- https://lucid.app/lucidchart/ce5a2054-8b7b-4a83-b6e0-4cf92613f70b/edit?viewport_loc=-1217%2C-1846%2C4197%2C2466%2C0_0&invitationId=inv_0c98a22b-f3db-40a4-9179-7e0dcd6fb09a
+
+27- 
 
 ---
 
