@@ -29,7 +29,9 @@ Index:
 
 9- https://lucid.app/lucidchart/e07fbe2f-0ab5-4b5a-b981-27b9a90ffa85/edit?viewport_loc=-787%2C-423%2C2798%2C1644%2C0_0&invitationId=inv_a6242f69-c3f5-4515-b1b8-9ff71ac0c8fb
 
-10- 
+10- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Desc.%20words%20and%20phrases.md
+
+11- 
 
 ---
 
