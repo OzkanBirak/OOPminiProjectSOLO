@@ -10,7 +10,7 @@ Simplified use case diagram for a course registration system:
                       +----------------------+-------------------------+
                       |                      |                         |
             +---------+--------+  +----------+---------+  +------------+---------+
-            |   Student        |  |    Faculty         |  |     Administrator     |
+            |   Student        |  |    Faculty         |  |     Administrator    |
             +---------+--------+  +----------+---------+  +------------+---------+
                       |                      |                         |
                       |                      |                         |
