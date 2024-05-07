@@ -9,7 +9,7 @@
 
 ---
 
-Index:
+### Index:
 
 1- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/usecase.md
 
@@ -41,7 +41,11 @@ Index:
 
 15- https://lucid.app/lucidchart/7593c770-fdbd-4696-ba13-0ea6c95489d1/edit?viewport_loc=-703%2C-371%2C3101%2C1822%2C0_0&invitationId=inv_ff66abe4-5bbb-45b2-97e3-818f3a380d12
 
-16- 
+16- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Activity%20Diagram.jpeg
+
+17- https://lucid.app/lucidchart/e25bedad-dffa-490d-8b15-1759d179bfdb/edit?viewport_loc=-1269%2C-708%2C4197%2C2466%2C0_0&invitationId=inv_cfcda824-b204-4100-b1e8-c1b4694da323
+
+18- 
 
 ---
 
