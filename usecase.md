@@ -15,8 +15,8 @@ Simplified use case diagram for a course registration system:
                       |                      |                         |
                       |                      |                         |
              +--------+--------+  +----------+---------+  +------------+---------+
-             | Register for      |  |  Manage Courses   |  |     Manage Users      |
-             | Courses           |  |  (Teaching)       |  |    (Admin Tools)      |
+             | Register for     |  |  Manage Courses   |  |     Manage Users     |
+             | Courses          |  |  (Teaching)       |  |    (Admin Tools)     |
              +--------+--------+  +----------+---------+  +------------+---------+
                       |                      |                         |
                       |                      |                         |
