@@ -45,7 +45,9 @@
 
 17- https://lucid.app/lucidchart/e25bedad-dffa-490d-8b15-1759d179bfdb/edit?viewport_loc=-1269%2C-708%2C4197%2C2466%2C0_0&invitationId=inv_cfcda824-b204-4100-b1e8-c1b4694da323
 
-18- 
+18- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Verbs%20and%20verb%20phrases%20for%20each%20class%20in%20the%20Course%20Registration%20System.md
+
+19- 
 
 ---
 
