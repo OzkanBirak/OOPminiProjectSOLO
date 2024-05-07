@@ -37,7 +37,11 @@ Index:
 
 13- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Identifying%20Objects'%20States%20and%20Activites%20of%20Course%20Registration%20System.md
 
-14- 
+14- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Blank%20diagram.jpeg
+
+15- https://lucid.app/lucidchart/7593c770-fdbd-4696-ba13-0ea6c95489d1/edit?viewport_loc=-703%2C-371%2C3101%2C1822%2C0_0&invitationId=inv_ff66abe4-5bbb-45b2-97e3-818f3a380d12
+
+16- 
 
 ---
 
