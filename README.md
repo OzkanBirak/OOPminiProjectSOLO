@@ -49,8 +49,13 @@ Please open one by one from number one to end. Thank you so much!
 
 18- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Verbs%20and%20verb%20phrases%20for%20each%20class%20in%20the%20Course%20Registration%20System.md
 
-19- 
-https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/clases%20in%20the%20Course%20Reg.%20Sys.%20w%20Attributes%20and%20Operations.jpeg
+19- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Classes%20w%20attributes%20and%20operations.md
+
+20- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/clases%20in%20the%20Course%20Reg.%20Sys.%20w%20Attributes%20and%20Operations.jpeg
+
+21- https://lucid.app/lucidchart/89f14699-85a1-49a2-b08f-f7b153bdbbda/edit?viewport_loc=-678%2C-332%2C2798%2C1644%2C0_0&invitationId=inv_faea533e-4000-4d2a-a5d4-a5e28643c10f
+
+22- 
 
 ---
 
