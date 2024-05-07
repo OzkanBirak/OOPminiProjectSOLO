@@ -55,7 +55,13 @@ Please open one by one from number one to end. Thank you so much!
 
 21- https://lucid.app/lucidchart/89f14699-85a1-49a2-b08f-f7b153bdbbda/edit?viewport_loc=-678%2C-332%2C2798%2C1644%2C0_0&invitationId=inv_faea533e-4000-4d2a-a5d4-a5e28643c10f
 
-22- 
+22- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Identifying%20operation%20parameters
+
+22- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/All%20Operation%20Parameters.jpeg
+
+23- https://lucid.app/lucidchart/f1e44735-34d0-47b9-8f8b-16ad9a1af8de/edit?viewport_loc=25%2C-578%2C1579%2C1096%2C0_0&invitationId=inv_352704a8-2d6b-459c-b033-1a57568ccd5a
+
+24- 
 
 ---
 
