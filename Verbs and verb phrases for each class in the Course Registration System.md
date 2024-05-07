@@ -1,4 +1,4 @@
-# Verbs and verb phrases help define the actions or operations that can be performed on each class in the "Course Registration System". Here's a list of verbs and verb phrases for each class:
+Verbs and verb phrases help define the actions or operations that can be performed on each class in the "Course Registration System". Here's a list of verbs and verb phrases for each class:
 
 1. **Course**:
    - View course details
