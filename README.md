@@ -35,7 +35,9 @@ Index:
 
 12- https://lucid.app/lucidchart/48d41c4c-2973-4060-bef8-ae4adfb85795/edit?viewport_loc=-3501%2C-696%2C6442%2C3785%2C0_0&invitationId=inv_030da30e-c2cf-410b-8c44-5152c96cbd8b
 
-13- 
+13- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Identifying%20Objects'%20States%20and%20Activites%20of%20Course%20Registration%20System.md
+
+14- 
 
 ---
 
