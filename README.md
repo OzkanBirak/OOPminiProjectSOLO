@@ -25,7 +25,11 @@ Index:
 
 7- https://lucid.app/lucidchart/d70c557f-a2dd-432e-adfa-cb82d8b56204/edit?viewport_loc=-910%2C-621%2C3437%2C2019%2C0_0&invitationId=inv_5ad3c786-c8e2-4b47-b77f-58a0913ad345
 
-8- 
+8- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-07%20185109.png
+
+9- https://lucid.app/lucidchart/e07fbe2f-0ab5-4b5a-b981-27b9a90ffa85/edit?viewport_loc=-787%2C-423%2C2798%2C1644%2C0_0&invitationId=inv_a6242f69-c3f5-4515-b1b8-9ff71ac0c8fb
+
+10- 
 
 ---
 
