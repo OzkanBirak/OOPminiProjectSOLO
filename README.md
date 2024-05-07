@@ -10,6 +10,7 @@
 ---
 
 Index:
+
 1- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/usecase.md
 
 2- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-07%20183149.png
