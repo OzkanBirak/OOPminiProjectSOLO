@@ -9,7 +9,9 @@
 
 ---
 
-### Index:
+### Index 
+
+Please open one by one from number one to end. Thank you so much!
 
 1- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/usecase.md
 
@@ -48,6 +50,7 @@
 18- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/Verbs%20and%20verb%20phrases%20for%20each%20class%20in%20the%20Course%20Registration%20System.md
 
 19- 
+https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/clases%20in%20the%20Course%20Reg.%20Sys.%20w%20Attributes%20and%20Operations.jpeg
 
 ---
 
