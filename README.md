@@ -11,7 +11,7 @@
 
 ### Index 
 
-Please open one by one from number one to end. Thank you so much!
+Please open one by one from number one to the end.
 
 1- https://github.com/OzkanBirak/OOPminiProjectSOLO/blob/main/usecase.md
 
